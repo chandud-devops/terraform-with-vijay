@@ -11,5 +11,4 @@ Below is the dependency diagram for better understanding.
 * Associate route tables with subnets.
 * Create EIP. Here elastic IP is independent resource.
 * Create NAT gateway. NAT gateway has explicit dependency on Internet Gateway.
-
 ![alt text](vpc.jpg)
